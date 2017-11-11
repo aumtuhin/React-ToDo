@@ -1,6 +1,5 @@
-# React-Youtube-Search
-<p>A simple real time youtube video search build with react.</p>
-<p>This is a practice project of my course "Modern React and Redux" on Udemy.</p>
+# React-todo
+<p>A simple todo app build with react.</p>
 <h3>Installation:</h3>
 <p>Clone or Download</p>
 <p>Install dependencies by </p>
