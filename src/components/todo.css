@@ -1,0 +1,50 @@
+.btn{
+    outline: none;
+    box-shadow: none;
+    border-width: 2px;
+    border-radius: 3px;
+    border-style: solid;
+    padding: 10px;
+    cursor: pointer;
+}
+.btn-primary{
+    color: rgb(62, 236, 120);
+    border-color: rgb(62, 236, 120);
+    background: transparent;
+}
+input{
+    width: 70%;
+    border: none;
+    border: 1px solid rgb(62, 236, 120);
+    margin-right: 10px;
+    padding: 10px;
+    line-height: 17px;
+    transition: .2s;
+}
+input:focus{
+    outline: none;
+    border: none;
+    border: 2px solid rgb(62, 236, 120);
+}
+.todoWrapper{
+    border-bottom: 1px solid #efefef;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.removeTodo{
+    margin-right: 20px;
+    margin-bottom: 10px;
+    outline: none;
+    box-shadow: none;
+    border-width: 2px;
+    border-radius: 3px;
+    border-style: solid;
+    padding: 8px;
+    color: rgb(253, 114, 114);
+    border-color:rgb(253, 114, 114);
+    background: transparent;
+    cursor: pointer;
+}
+h2{
+    color: rgb(57, 180, 98);
+}
